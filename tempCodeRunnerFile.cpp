@@ -1,5 +1,4 @@
-for(auto it:nums)
-        {
-            cout << it<<" ";
-        }
-
+for(auto i:a)
+// {
+//         cout << i << " ";
+// }
